@@ -32,11 +32,11 @@ The Python programme is used to parse the XML webpage and produce the parsed inf
 4. request
 5. time
 
-## Features
-What makes your project stand out?
-
 ## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+The kafka (python client for Apache Kafka) is used to produce message to the Apache Kafka server , which is a distributed data streaming platform capable of handling trillions of data events in a day. The package can be imported by a simple import statement in Python
+```python
+from kafka import KafkaProducer
+```
 
 ## Installation
 
