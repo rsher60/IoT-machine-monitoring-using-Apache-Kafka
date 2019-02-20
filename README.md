@@ -48,7 +48,7 @@ For this implementation , a single node setup of Apache Zookeeper has been used.
 ### 
 
 ## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+
 
 
 ## Credits
